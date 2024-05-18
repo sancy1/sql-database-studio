@@ -1,3 +1,0 @@
-Host: localhost
-User: root
-Password: sweetJESUS@1
